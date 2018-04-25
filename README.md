@@ -1,15 +1,18 @@
 # SyntheticMedData
 
-# Environment
+## Environment
+
 - python3.x
 - Anaconda (Recommended)
 
-# building rotMNIST dataset
+## building rotMNIST dataset
 
 ```
 python build_rotMNIST.py
 ```
-Outpot
+
+## Output
+
 ```
 rotMNIST
   |
