@@ -1,11 +1,15 @@
 # SyntheticMedData
 
+人工的な時系列の医療データを作成するスクリプト
+
 ## Environment
 
 - python3.x
 - Anaconda (Recommended)
 
 ## building rotMNIST dataset
+
+以下のコマンドでMNISTデータをもとに人工時系列のデータセットを生成する。
 
 ```
 python build_rotMNIST.py
